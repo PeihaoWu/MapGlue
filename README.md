@@ -50,6 +50,8 @@ The ``MapData-test`` dataset can be obtained at following links:<br>
 
 ### Demo
 🚀 **[Try MapGlue Online](https://huggingface.co/spaces/wupeihao/MapGlue)** - Interactive demo on Hugging Face Spaces
+<img width="2325" height="1245" alt="demo" src="https://github.com/user-attachments/assets/260a2e87-c461-4608-b3cc-72781d4d92e4" />
+
 
 # Citation
 If you find our work useful in your research, please consider giving a star ⭐ and a citation
@@ -61,6 +63,7 @@ If you find our work useful in your research, please consider giving a star ⭐ 
   year={2025}
 }
 ```
+
 
 
 
