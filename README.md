@@ -6,11 +6,11 @@
 
 <div align="center">
 
-Peihao Wu, Yongxiang Yao*, Wenfei Zhang, Dong Wei, Yi Wan, Yansheng Li, Yongjun Zhang*<br>
+Peihao Wu, Yongxiang Yao*, Wenfei Zhang, Dong Wei, Yi Wan, Haoyu Guo, Yansheng Li, Yongjun Zhang*<br>
 School of Remote Sensing Information Engineering, Wuhan University<br>
 (*)Corresponding author.
 
-## [Paper (arXiv)](https://arxiv.org/abs/2503.16185)
+## [Paper (ISPRS 2026)](https://www.sciencedirect.com/science/article/abs/pii/S0924271626003540)
 
 </div>
 
@@ -54,11 +54,13 @@ The `MapData-test` dataset is available at the following links:
 # Citation
 If you find our work useful in your research, please consider giving a star ⭐ and a citation
 ```python
-@article{wu2025mapglue,
-  title={MapGlue: Multimodal Remote Sensing Image Matching},
-  author={Wu, Peihao and Yao, Yongxiang and Zhang, Wenfei and Wei, Dong and Wan, Yi and Li, Yansheng and Zhang, Yongjun},
-  journal={arXiv preprint arXiv:2503.16185},
-  year={2025}
+@article{wu2026mapglue,
+  title={{MapGlue}: Multimodal remote sensing image matching},
+  author={Wu, Peihao and Yao, Yongxiang and Zhang, Wenfei and Wei, Dong and Wan, Yi and Guo, Haoyu and Li, Yansheng and Zhang, Yongjun},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={240},
+  pages={166--183},
+  year={2026}
 }
 ```
 
