@@ -28,25 +28,23 @@ Fig. 2. Geographic Distribution of Sampled Images in the MapData Dataset.
 MapData is a globally diverse dataset spanning ``233`` geographic sampling points. It offers original high-resolution images ranging from 7,000×5,000 to 20,000×15,000 pixels. After rigorous cleaning, the dataset provides ``121,781`` aligned electronic map–visible image pairs (each standardized to 512×512 pixels) with hybrid manual-automated ground truth—addressing the scarcity of scalable multimodal benchmarks.
 
 Within the MapData structure, each of the 233 folders represents a unique geographic sampling point. Inside each folder, there are three subfolders (named ``1``, ``2``, and ``3``) corresponding to three different image pairs sampled at that location. Each subfolder further contains two directories: ``L`` for source images and ``R`` for target images.  
-### Data format  
-```text
-MapData/
-├── 001/             # sampling points
-│   ├── 1/
-│   │   ├── L/       # Source images
-│   │   └── R/       # Target images
-│   ├── 2/
-│   │   ├── L/
-│   │   └── R/
-│   └── 3/
-│       ├── L/
-│       └── R/
-└── ...
-```
 
-The ``MapData-test`` dataset can be obtained at following links:<br>
-(1) google drive https://drive.google.com/file/d/1VQSyIzs_0X15OH1aXVxeSii0JZmW9WzL/view?usp=sharing<br>
-(2) baidu drive https://pan.baidu.com/s/1zMR6V4zNPK8azU5w9rrUuQ  Extract code: ``2ym1``. <br>
+### Dataset Download
+
+**1. Full Dataset (MapData)**
+
+The complete `MapData` dataset is available at the following link:
+
+- **Baidu Netdisk:** [Download MapData.rar](https://pan.baidu.com/s/10MOEpcSCrp30OVZt31YCPg?pwd=fisv)
+  - Extraction code: `fisv`
+
+**2. Test Dataset (MapData-test)**
+
+The `MapData-test` dataset is available at the following links:
+
+- **Google Drive:** [Download MapData-test](https://drive.google.com/file/d/1VQSyIzs_0X15OH1aXVxeSii0JZmW9WzL/view?usp=sharing)
+- **Baidu Netdisk:** [Download MapData-test](https://pan.baidu.com/s/1zMR6V4zNPK8azU5w9rrUuQ)
+  - Extraction code: `2ym1`
 
 ### Demo
 🚀 **[Try MapGlue Online](https://huggingface.co/spaces/wupeihao/MapGlue)** - Interactive demo on Hugging Face Spaces
