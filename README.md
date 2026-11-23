@@ -33,10 +33,7 @@ Within the MapData structure, each of the 233 folders represents a unique geogra
 
 **1. Full Dataset (MapData)**
 
-The complete `MapData` dataset is available at the following link:
-
-- **Baidu Netdisk:** [Download MapData.rar](https://pan.baidu.com/s/10MOEpcSCrp30OVZt31YCPg?pwd=fisv)
-  - Extraction code: `fisv`
+To obtain the complete `MapData` dataset (for **non-commercial academic research only**), please fill out the [**MapData Dataset Access Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSdGAwiV2I9Id-xmzxF5tkzV54QNheMhcNw6X1QeR4SpbiADQw/viewform). The Baidu Netdisk download link and extraction code will be displayed automatically upon submission.
 
 **2. Test Dataset (MapData-test)**
 
@@ -50,6 +47,11 @@ The `MapData-test` dataset is available at the following links:
 🚀 **[Try MapGlue Online](https://huggingface.co/spaces/wupeihao/MapGlue)** - Interactive demo on Hugging Face Spaces
 <img width="2325" height="1245" alt="demo" src="https://github.com/user-attachments/assets/260a2e87-c461-4608-b3cc-72781d4d92e4" />
 
+## License & Terms of Use
+
+- **Non-Commercial Academic Use Only:** The `MapData` dataset, annotations, and associated resources are provided **strictly for non-commercial academic research and educational purposes**. Commercial use or resale is prohibited.
+- **Original Contributions:** Our original annotations, dataset organization, documentation, and benchmark splits are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+- **Third-Party Imagery Copyright:** The copyright and intellectual property of the underlying electronic maps and visible satellite imagery remain with their respective original data providers. Users are responsible for complying with the applicable terms of service of the original providers.
 
 # Citation
 If you find our work useful in your research, please consider giving a star ⭐ and a citation
